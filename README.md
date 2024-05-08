@@ -7,7 +7,7 @@ This project explores building automated trading systems using Amazon Web Servic
 > **Disclaimer:** This project is educational and not intended as financial advice.
 
 ## View The Full Lesson
-**For detailed instructions and a comprehensive lesson on how to build this system, <a href="https://uint32.xyz/writing/building-an-automated-trading-system" target="blank">check out the full article here</a>.**
+**For detailed instructions and a comprehensive lesson on how to build this system, <a href="https://uint32.xyz/writing/building-an-automated-trading-system" target="_blank">check out the full article here</a>.**
 
 ## Part 1: Building the Trading System
 
